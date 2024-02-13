@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    margin:200px 60px;
+    width: 400px;
+    height: 400px;
+    border: 20px solid rgb(79, 8, 16);
+    padding: 120px 100px 100px 90px;
+    text-align: center;
+    background-color: rgb(207, 61, 83);
+    position: relative;
+    left: 450px;
+}
+h1{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(178, 203, 232);
+}
